@@ -1,6 +1,6 @@
 {
   "app": {
-    "latest_version": "1.0.0",
+    "latest_version": "1.0.1",
     "min_version": "1.0.0",
     "download_url": "https://github.com/farhadzandi/falcon-dm-server/releases",
     "changelog": "First stable release with all features",
