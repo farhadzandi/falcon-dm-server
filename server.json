@@ -12,7 +12,13 @@
       "type": "lifetime",
       "date": "2024-06-16",
       "active": true
-    }
+    },
+  {
+    "email": "zandi.cs@gmail.com",
+    "type": "lifetime",
+    "date": "2026-06-16",
+    "active": true
+  }
   },
   "settings": {
     "trial_days": 30,
