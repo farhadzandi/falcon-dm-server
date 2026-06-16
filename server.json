@@ -1,0 +1,23 @@
+{
+  "app": {
+    "latest_version": "1.0.0",
+    "min_version": "1.0.0",
+    "download_url": "https://github.com/farhadzandi/falcon-dm-server",
+    "changelog": "Initial release with multi-part download, browser integration, and proxy support",
+    "message": "Welcome to Falcon DM!"
+  },
+  "licenses": {
+    "DEMO-DEMO-DEMO-DEMO-DEMO-DEMO": {
+      "email": "demo@example.com",
+      "type": "lifetime",
+      "date": "2024-06-16",
+      "machine_id": "any",
+      "active": true
+    }
+  },
+  "settings": {
+    "trial_days": 30,
+    "force_update": false,
+    "maintenance_mode": false
+  }
+}
