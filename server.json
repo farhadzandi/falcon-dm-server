@@ -7,19 +7,18 @@
     "message": "Welcome to Falcon DM! Enjoy your downloads."
   },
   "licenses": {
-  "DEMO-DEMO-DEMO-DEMO-DEMO-DEMO": {
-    "email": "demo@example.com",
-    "type": "lifetime",
-    "date": "2024-06-16",
-    "active": true
-  },
-  "T9QA-7X2I-AYQS-1AGE-42C5-CABG": {
-    "email": "zandi.cs@gmail.com",
-    "type": "lifetime",
-    "date": "2026-06-16",
-    "active": true
-  }
-},
+    "DEMO-DEMO-DEMO-DEMO-DEMO-DEMO": {
+      "email": "demo@example.com",
+      "type": "lifetime",
+      "date": "2024-06-16",
+      "active": true
+    },
+    "T9QA-7X2I-AYQS-1AGE-42C5-CABG": {
+      "email": "zandi.cs@gmail.com",
+      "type": "lifetime",
+      "date": "2026-06-16",
+      "active": true
+    }
   },
   "settings": {
     "trial_days": 30,
