@@ -1,0 +1,33 @@
+# Falcon DM - .gitignore
+
+# Config files with tokens
+server_manager_config.json
+falcon_settings.json
+falcon_license.dat
+license_records.json
+
+# Database
+falcon_downloads.db
+
+# Cache
+server_cache.json
+
+# Build output
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hidden files
+.falcon_hidden
+falcon_install_date.dat
+falcon_sys.dat
