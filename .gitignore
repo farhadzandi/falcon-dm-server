@@ -1,10 +1,16 @@
 # Falcon DM - .gitignore
+# ⚠️ Never commit sensitive files!
 
-# Config files with tokens
+# Token و config files
 server_manager_config.json
 falcon_settings.json
 falcon_license.dat
 license_records.json
+licenses_export.json
+
+# Environment variables
+.env
+.env.local
 
 # Database
 falcon_downloads.db
@@ -18,16 +24,27 @@ build/
 *.spec
 __pycache__/
 *.pyc
+*.pyo
 
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
 
 # OS
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Hidden files
 .falcon_hidden
 falcon_install_date.dat
 falcon_sys.dat
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
