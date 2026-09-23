@@ -1,10 +1,15 @@
 {
   "app": {
     "latest_version": "1.0.3",
-    "min_version": "1.0.0",
     "download_url": "https://github.com/farhadzandi/falcon-dm-server/releases/download/v1.0.3/FalconDM_v1.0.3.exe",
     "changelog": "Fix multipart download validation and merging, improve tray minimize/close behavior, refresh license checks before validation, add packaged icons, and harden Server Manager publishing.",
-    "message": "Falcon DM 1.0.3 is ready for update testing."
+    "message": "Falcon DM 1.0.3 is ready for update testing.",
+    "min_version": "1.0.0"
+  },
+  "settings": {
+    "trial_days": 30,
+    "maintenance_mode": false,
+    "force_update": false
   },
   "licenses": {
     "DEMO-DEMO-DEMO-DEMO-DEMO-DEMO": {
@@ -18,11 +23,12 @@
       "type": "lifetime",
       "date": "2026-06-20",
       "active": true
+    },
+    "0X8V-EV9W-2VIQ-OD59-YA3P-D9O7": {
+      "email": "alizandi020@gmail.com",
+      "type": "lifetime",
+      "date": "2026-09-23",
+      "active": true
     }
-  },
-  "settings": {
-    "trial_days": 30,
-    "force_update": false,
-    "maintenance_mode": false
   }
 }
